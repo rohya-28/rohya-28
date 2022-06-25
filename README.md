@@ -1,7 +1,11 @@
 Hi there, I'm Rohit 👋
 
 
+
+
 I'm a Front-end Software Developer and JS Enthusiast!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohya-28&label=Profile%20views&color=0e75b6&style=flat" alt="rohya-28" /> </p>
 
 ⚡ Fun fact: I love to watch Fiction movies
 
