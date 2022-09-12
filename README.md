@@ -22,6 +22,6 @@ Nice to meet you, I'm Rohit
 <br>    
     ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=rohya-28&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
  
 
