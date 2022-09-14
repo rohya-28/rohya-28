@@ -34,7 +34,7 @@ Nice to meet you, I'm Rohit
  
 
 
-<a href="https://www.instagram.com/rohya_21" target="_blank">
+<a href="https://www.instagram.com/_rohya_21" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
 <a href="https://www.linkedin.com/in/rohit-arsude-63859a1b6/" target="_blank">
