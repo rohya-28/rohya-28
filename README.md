@@ -25,7 +25,8 @@ Nice to meet you, I'm Rohit
     
   ## Github Status 🏆
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rohya-28&theme=react" width="48%" >
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohya-28&" alt="rohya-28" /></p>
 
 
 
