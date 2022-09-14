@@ -28,5 +28,20 @@ Nice to meet you, I'm Rohit
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohya-28&" alt="rohya-28" /></p>
 
+<br>
+
+<p align="center">
+ 
+
+
+<a href="https://www.instagram.com/rohya_21" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
+
+<a href="https://www.linkedin.com/in/rohit-arsude-63859a1b6/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+     
+     
+</p>
+
 
 
