@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rohit</h1>
 <h3 align="left">A passionate MERN Devloper</h3>
-
+  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h4 align="left">I’m an MCA student with a strong passion for full-stack development, especially using JavaScript. I thrive on creating dynamic, responsive, and user-friendly web applications. My journey in coding is driven by curiosity and a desire to continuously learn and improve.</h4>
