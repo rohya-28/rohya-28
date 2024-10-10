@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Rohit</h1>
 <h3 align="left">A passionate MERN Devloper</h3>
 
+<a href="attendify://verify?code=12345">Expo Testing</a>
+
 
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
