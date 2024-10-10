@@ -3,7 +3,7 @@
 
 <a href="attendify://verify?code=12345">Expo Testing</a>
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> EXPO TESTING </a>
+ <a href="attendify://verify?code=12345" target="_blank" rel="noreferrer"> EXPO TESTING </a>
 
 
  
