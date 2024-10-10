@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rohit</h1>
 <h3 align="left">A passionate MERN Devloper</h3>
 
-<a href="attendify://verify?code=12345">Expo Testing</a>
+<a href="exp://exp://192.168.18.198:8081/--/verify?code=12345">Expo Testing</a>
 
  <a href="attendify://verify?code=12345" target="_blank" rel="noreferrer"> EXPO TESTING </a>
 
