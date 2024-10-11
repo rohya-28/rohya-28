@@ -3,9 +3,6 @@
 
 
 
- <a href="attendify://verify?code=12345" target="_blank" rel="noreferrer"> EXPO TESTING </a>
-
-
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
